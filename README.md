@@ -6,7 +6,7 @@
 ## Aim
 
 To measure the isolation between the E and H arms of a magic tee and study the characteristics of the magic tee.
-
+  
 ## Apparatus Used
 
 Klystron power supply, klystron mount, isolator, attenuator, frequency meter, VSWR meter, magic tee and matched terminations.
